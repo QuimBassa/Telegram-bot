@@ -1,5 +1,5 @@
 # Telegram-bot
 
-Academic project. Part of a Python course of MSc Statistics and Operational Research UPC.
+Academic project. Exercise of a Python course of the MSc in Statistics and Operational Research at UPC.
 
 Basic telegram bot that gives you either the capital or country name of any European nation and computes some simple operations. 
